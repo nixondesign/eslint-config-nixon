@@ -1,0 +1,22 @@
+{
+	"name": "eslint-config-nixon",
+	"version": "0.0.0",
+	"description": "Nixon Design's ESLint config",
+	"main": "index.js",
+	"author": "Nixon Design",
+	"license": "MIT",
+	"files": [
+		"rules",
+		"index.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nixondesign/eslint-config-nixon"
+	},
+	"peerDependencies": {
+		"eslint": ">=8.0.0"
+	},
+	"devDependencies": {
+		"eslint": ">=8.0.0"
+	}
+}
