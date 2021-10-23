@@ -1,5 +1,11 @@
-# Changelog
+# 0.0.3
 
-## 0.0.1
+- Update minimum ESLine version requirement to 8.1.0
+
+# 0.0.2
+
+- Fix broken Typescript config
+
+# 0.0.1
 
 - Add TypeScript config via `eslint-config-nixon/typescript`
