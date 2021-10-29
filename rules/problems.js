@@ -49,6 +49,7 @@ module.exports = {
 		'no-unsafe-finally': 'error',
 		'no-unsafe-negation': 'error',
 		'no-unsafe-optional-chaining': ['error', { disallowArithmeticOperators: true }],
+		'no-unused-private-class-members': true,
 		'no-unused-vars': ['error', { vars: 'all', args: 'after-used', ignoreRestSiblings: true }],
 		'no-use-before-define': ['error', { functions: false, classes: true, variables: true }],
 		'no-useless-backreference': 'error',
