@@ -1,3 +1,7 @@
+# 0.0.5
+
+- Corrected `no-unused-private-class-members` value
+
 # 0.0.4
 
 - Added `no-unused-private-class-members` rule
