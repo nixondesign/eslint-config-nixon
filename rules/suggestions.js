@@ -100,7 +100,7 @@ module.exports = {
 		'no-undefined': 'off',
 		'no-underscore-dangle': 'off',
 		'no-unneeded-ternary': ['error', { defaultAssignment: true }],
-		'no-unused-expressions': 'error',
+		'no-unused-expressions': ['error', { allowTernary: true }],
 		'no-unused-labels': 'error',
 		'no-useless-call': 'off',
 		'no-useless-catch': 'error',

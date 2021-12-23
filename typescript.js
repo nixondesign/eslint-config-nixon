@@ -69,7 +69,7 @@ module.exports = {
 		'@typescript-eslint/no-throw-literal': 'error',
 
 		'no-unused-expressions': 'off',
-		'@typescript-eslint/no-unused-expressions': 'error',
+		'@typescript-eslint/no-unused-expressions': ['error', { allowTernary: true }],
 
 		'no-unused-vars': 'off',
 		'@typescript-eslint/no-unused-vars': ['error', {
