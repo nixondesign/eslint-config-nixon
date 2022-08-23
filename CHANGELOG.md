@@ -1,6 +1,6 @@
 # 0.0.7
 
-- Updated minimum esLint version requirement to 8.22.0
+- Updated minimum eslint version requirement to 8.22.0
 - Enabled `no-constant-binary-expression`
 - Enabled `no-return-assign`
 - Enabled `prefer-object-has-own`
@@ -20,7 +20,7 @@
 
 # 0.0.3
 
-- Update minimum ESLine version requirement to 8.1.0
+- Updated minimum eslint version requirement to 8.1.0
 
 # 0.0.2
 
