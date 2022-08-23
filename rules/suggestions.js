@@ -125,6 +125,7 @@ module.exports = {
 		'prefer-exponentiation-operator': 'error',
 		'prefer-named-capture-group': 'off',
 		'prefer-numeric-literals': 'error',
+		'prefer-object-has-own': 'error',
 		'prefer-object-spread': 'off',
 		'prefer-promise-reject-errors': ['error', { allowEmptyReject: true }],
 		'prefer-regex-literals': 'error',
