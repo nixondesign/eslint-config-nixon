@@ -1,3 +1,11 @@
+# 0.0.7
+
+- Updated minimum esLint version requirement to 8.22.0
+- Enabled `no-constant-binary-expression`
+- Enabled `no-return-assign`
+- Enabled `prefer-object-has-own`
+- Enabled `template-curly-spacing`
+
 # 0.0.6
 
 - Disabled `sort-imports`
