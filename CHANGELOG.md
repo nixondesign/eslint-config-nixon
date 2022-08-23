@@ -1,3 +1,7 @@
+# 0.0.6
+
+- Disabled `sort-imports`
+
 # 0.0.5
 
 - Corrected `no-unused-private-class-members` value
