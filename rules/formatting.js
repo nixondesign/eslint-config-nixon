@@ -60,6 +60,7 @@ module.exports = {
 		'unicode-bom': ['error', 'never'],
 		'wrap-iife': ['error', 'outside', { functionPrototypeMethods: false }],
 		'wrap-regex': 'off',
+		'template-curly-spacing': 'error',
 		'yield-star-spacing': 'off',
 	},
 };
