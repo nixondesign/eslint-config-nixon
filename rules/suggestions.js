@@ -89,6 +89,7 @@ module.exports = {
 		'no-restricted-imports': 'off',
 		'no-restricted-properties': 'off',
 		'no-restricted-syntax': 'off',
+		'no-return-assign': ['error', 'always'],
 		'no-return-await': 'off',
 		'no-script-url': 'error',
 		'no-sequences': 'error',
