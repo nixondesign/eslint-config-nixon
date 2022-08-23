@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-nixon",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"description": "Nixon Design's ESLint config",
 	"main": "index.js",
 	"author": "Nixon Design",

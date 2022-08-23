@@ -1,3 +1,7 @@
+# 0.0.8
+
+- Fix release for incorrect npm @latest tag
+
 # 0.0.7
 
 - Updated minimum eslint version requirement to 8.22.0
