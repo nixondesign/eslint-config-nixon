@@ -135,12 +135,7 @@ module.exports = {
 		'require-await': 'off',
 		'require-unicode-regexp': 'off',
 		'require-yield': 'error',
-		'sort-imports': ['error', {
-			ignoreCase: false,
-			ignoreDeclarationSort: false,
-			ignoreMemberSort: false,
-			memberSyntaxSortOrder: ['none', 'all', 'multiple', 'single'],
-		}],
+		'sort-imports': 'off',
 		'sort-keys': 'off',
 		'sort-vars': 'off',
 		'spaced-comment': 'off',
